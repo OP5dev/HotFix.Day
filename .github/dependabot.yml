@@ -1,0 +1,21 @@
+---
+version: 2
+
+updates:
+  - package-ecosystem: github-actions
+    directory: /
+    schedule:
+      interval: daily
+    groups:
+      cicd:
+        patterns:
+          - "*"
+
+  - package-ecosystem: bun
+    directory: /
+    schedule:
+      interval: daily
+    groups:
+      bun:
+        patterns:
+          - "*"
