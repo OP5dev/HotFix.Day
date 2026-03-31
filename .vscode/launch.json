@@ -1,0 +1,17 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Dev",
+      "command": "bun run dev",
+      "request": "launch",
+      "type": "node-terminal"
+    },
+    {
+      "name": "Build",
+      "command": "bun run build",
+      "request": "launch",
+      "type": "node-terminal"
+    }
+  ]
+}
