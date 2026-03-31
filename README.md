@@ -1,4 +1,4 @@
-# HotFix.Day — Fixes, Failures & the Future of DevOps
+# HotFix.Day · Fixes, Failures & the Future of DevOps
 
 > Things break in production; we write about why. Incident analysis, infrastructure automation, CI/CD, observability, and open-source SRE tooling.
 
@@ -43,5 +43,5 @@ Static assets like images and fonts are stored in `src/assets/` so Astro can opt
 
 The project includes a `.vscode/launch.json` with pre-configured debug profiles. Open the **Run and Debug** panel (`Ctrl+Shift+D`) and select a configuration:
 
-- **Dev** — starts `bun run dev` with the VS Code debugger attached. Set breakpoints in `.astro` and `.ts` files and hit `F5`.
-- **Build** — runs `bun run build` under the debugger, useful for diagnosing build-time issues in content collections or image processing.
+- **Dev:** starts `bun run dev` with the VS Code debugger attached. Set breakpoints in `.astro` and `.ts` files and hit `F5`.
+- **Build:** runs `bun run build` under the debugger, useful for diagnosing build-time issues in content collections or image processing.

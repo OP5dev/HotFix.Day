@@ -2,7 +2,7 @@
   "name": "hotfix.day",
   "homepage": "https://www.hotfix.day",
   "repository": "github:hotfixday/hotfix.day",
-  "description": "HotFix.Day — Fixes, Failures & the Future of DevOps. Things break in production; we write about why. Incident analysis, infrastructure automation, CI/CD, observability, and open-source SRE tooling.",
+  "description": "HotFix.Day · Fixes, Failures & the Future of DevOps. Things break in production; we write about why. Incident analysis, infrastructure automation, CI/CD, observability, and open-source SRE tooling.",
   "license": "Apache-2.0",
   "type": "module",
   "author": {
