@@ -9,7 +9,20 @@ export default defineConfig({
   integrations: [mdx(), sitemap()],
   security: {
     csp: {
-      directives: ["default-src 'self'"],
+      directives: [
+        "default-src 'none'",
+        "base-uri 'none'",
+        "form-action 'none'",
+        "frame-ancestors 'none'",
+        "img-src 'self'",
+        "font-src 'self'",
+      ],
+    },
+  },
+  server: {
+    headers: {
+      'Referrer-Policy': 'strict-origin-when-cross-origin',
+      'X-Content-Type-Options': 'nosniff',
     },
   },
   fonts: [
