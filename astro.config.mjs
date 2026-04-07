@@ -21,8 +21,8 @@ export default defineConfig({
   },
   server: {
     headers: {
-      'Referrer-Policy': 'strict-origin-when-cross-origin',
       'X-Content-Type-Options': 'nosniff',
+      'Referrer-Policy': 'strict-origin-when-cross-origin',
     },
   },
   fonts: [
