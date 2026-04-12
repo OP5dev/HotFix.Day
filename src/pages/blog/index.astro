@@ -86,7 +86,7 @@ const posts = (await getCollection("blog")).sort((a, b) => b.data.pubDate.valueO
   </head>
   <body>
     <Header />
-    <main id="main-content">
+    <main id="main-content" tabindex="-1">
       <section>
         <ul>
           {
