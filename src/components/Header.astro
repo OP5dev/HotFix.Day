@@ -3,8 +3,9 @@ import { SITE_TITLE } from "../consts";
 import HeaderLink from "./HeaderLink.astro";
 ---
 
+<a href="#main-content" class="sr-only focus:not-sr-only">Skip to content</a>
 <header>
-  <nav>
+  <nav aria-label="Primary">
     <h2><a href="/">{SITE_TITLE}</a></h2>
     <div class="internal-links">
       <HeaderLink href="/">Home</HeaderLink>
