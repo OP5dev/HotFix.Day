@@ -49,4 +49,4 @@ The project includes a `.vscode/launch.json` with pre-configured debug profiles.
 
 ---
 
-[HotFix.Day](https://www.hotfix.day) &copy; 2016&ndash;present by [Rishav Dhar](https://www.rdhar.dev) &middot; Code: [Apache 2.0](https://github.com/OP5dev/HotFix.Day?tab=Apache-2.0-1-ov-file#readme) &middot; Content: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0).
+[HotFix.Day](https://www.hotfix.day) &copy; 2016&ndash;present by [Rishav Dhar](https://github.com/rdhar) &middot; Code: [Apache 2.0](https://github.com/OP5dev/HotFix.Day?tab=Apache-2.0-1-ov-file#readme) &middot; Content: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0).
