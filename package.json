@@ -29,12 +29,12 @@
     "@astrojs/mdx": "8.0.2",
     "@astrojs/rss": "4.0.19",
     "@astrojs/sitemap": "3.7.4",
-    "astro": "7.3.4",
+    "astro": "7.3.5",
     "sharp": "0.35.4"
   },
   "devDependencies": {
     "@types/bun": "1.4.2",
-    "prettier": "3.9.8",
-    "prettier-plugin-astro": "1.0.1"
+    "prettier": "3.9.9",
+    "prettier-plugin-astro": "1.1.0"
   }
 }
